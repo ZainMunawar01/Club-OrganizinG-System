@@ -175,7 +175,7 @@ data in_out(int n, double total_cost, double percost, double carercost) {
 }
 int main () {
 	int n;
-	cout<<"***Welcome to the Club Organizing System***"<<endl<<endl;
+	cout<<"***Welcome***"<<endl<<endl;
 	while (true) {
 	cout<<"Enter the number of people going on outing including carers: ";
 	cin>>n;
