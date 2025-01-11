@@ -8,7 +8,7 @@ struct data{
 	double ticket_cost;
 	double sum;
 	double per_person_cost;
-	double carer_cost;
+	
 };
 data group1(int n) {
 	struct data d;
